@@ -1,0 +1,7 @@
+<template>
+    <name>HelloWorld</name>
+    <encoding-version>1.0</encoding-version>
+    <groupId>unique-group-id</groupId>
+    <description>Sample NiFi template</description>
+    <!-- Other elements -->
+</template>
